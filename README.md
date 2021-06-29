@@ -58,7 +58,7 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 it will open gazebo and RViz and you can work in the map Also, by last command you can control robots by (w-s-x-a-d) to make move on around the map.
 
-about how to save the map, use this command and it will savt it.
+about how to save the map, use this command and it will save it.
 $ rosrun map_server map_saver -f ~/map
 
 
